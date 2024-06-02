@@ -1,2 +1,2 @@
 # boids-herd-simulation
-Simulation of herd behavior using the boids algorithm and sound signaling 
+The aim of the project was to create a model and simulate the behavior of animal flocks using the well-known boids algorithm, along with the implementation of a secondary signaling system based on sound. The work also includes introducing additional behaviors as responses to external factors and developing a system of sound signals. The implementation was carried out using Python and its PyGame library.
